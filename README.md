@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=1480&t=st=1694265420~exp=1694266020~hmac=f7bfc19c400a6a03c7d3ebf6ac9df5e6b418e9b34cc4bd0291fc9f56a67fdde5)
+
 <h1 align="center">Hi 👋, I'm Annas Ahmed</h1>
 <h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47txwhuvfxg0tp5ws2f3mt3wdkqdbrl9trqvs1pf17&ep=v1_gifs_search&rid=giphy.gif&ct=g")/>
