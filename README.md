@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Annas Ahmed</h1>
-<h3 align="center">A passionate MERN Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47txwhuvfxg0tp5ws2f3mt3wdkqdbrl9trqvs1pf17&ep=v1_gifs_search&rid=giphy.gif&ct=g")/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annasahmed&label=Profile%20views&color=0e75b6&style=flat" alt="annasahmed" /> </p>
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently working remotely as Software Engineer @ SwipeTech Studio
 
 - 👨‍💻 All of my projects are available at [https://annas-ahmed.vercel.app/](https://annas-ahmed.vercel.app/)
 
